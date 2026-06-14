@@ -1,7 +1,6 @@
 /*
 Karman Sidhu
-4000578131
-Mechtron 2TA4
+
 Lab 4
 */
 
